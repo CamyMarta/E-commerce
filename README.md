@@ -17,7 +17,7 @@ npm start
 ```
 cd E-commerce-Server
 
- composer create-project symfony/website-skeletonServer
+ composer create-project symfony/website-skeleton Server
  
  cd Server
  php bin/console server:start
