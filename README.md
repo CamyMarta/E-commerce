@@ -8,14 +8,14 @@
 ```
 Open two terminal and proceed to this
 
-cd e-commerce-client
+cd E-commerce-client
 npm install
 
 npm start
 ```
 
 ```
-cd e-commerce-Server
+cd E-commerce-Server
 
  composer create-project symfony/website-skeletonServer
  
