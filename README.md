@@ -2,6 +2,8 @@
 
 ## Project realised by 5 peoples
 
+### developed in symfony and Reactjs
+
 ## Install
 ```
 Open two terminal and proceed to this
